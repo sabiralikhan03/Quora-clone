@@ -1,0 +1,19 @@
+h1{
+    color: rgb(90, 18, 18);
+}
+.post{
+    background-color: rgb(184, 137, 67);
+}
+.user{
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+img{
+    height: 200px;
+    width: 100px;
+}
